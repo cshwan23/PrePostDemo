@@ -3,11 +3,11 @@
 단항연산자/증가연산자(++)
 
 
-  package org.opentutorials.javatutorials.operator;
+  	package org.opentutorials.javatutorials.operator;
 
-  public class PrePostDemo {
+  		public class PrePostDemo {
   
-  public static void main(String[] args) {
+  			public static void main(String[] args) {
 		
 		
 //이항 연산자 infix operator
@@ -35,7 +35,7 @@
 		
 	    	++i;
 		
-	 	System.out.println(i);  // 5 출
+	 	System.out.println(i);  // 5 출력
 	    
 		System.out.println(++i);  // 6 출력
 //++i 는 프린트에도 출력이 되고
@@ -50,6 +50,6 @@
 		
 		
 		
-	}
+ }
 
 }
